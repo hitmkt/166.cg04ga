@@ -1,0 +1,40 @@
+title: 용산철거
+description: 이태원 한남동 이촌동 보광동 칸막이 인테리어 붙박이장 상가 사무실 원상복구업체
+keywords: 이태원 한남동 이촌동 보광동 칸막이 인테리어 붙박이장 상가 사무실 원상복구업체
+baseurl: ""
+url: "http://yongsan.qustmddus.com"
+logo_url: svg/min/logo.svg
+author:
+    name: JET개발
+business:
+    name: JET개발
+    owner: 이기훈
+    address: 서울시 용산구 한남동
+    title: 사업안내
+about:
+    title: 회사소개
+phone: 0507-571-8001
+# Theme Settings
+# lkub0005 - a43f6e011ce6deed50366b1f8d2e77b1a9cb125a
+# kch920503  - aa2c489c4a9b537f46b43526e577e9f585088433
+# henrry34 - 1e89d1f3d5c171ed45c45b92bfddf53b88870b26
+# lkub0303 - 819fa6847a0815bab22bca5ba25d8186fb5473e7
+# min890203 - 71f1e67d1873b73b891f80bb41ec949d2c2ea45f
+# garfield34 - 08b987fbd4ecc32138a94a05bc9048429a0f2260
+# avkxk2769 - 42200f64b673e39bfab222e32ec1009874ceb645
+# ldk-12 - 3b78a03a41486180e1cf544151133f402d774168
+# diamond-77 - 53a15b8b9d04d9e4b43cf8ff9d66992bf10b42b8
+# jvmbyuni - 6dd5c13bf4dbaa08206ac8ca62b4a23a4878c056
+naver_verification: e9721fb7b51c1261a081f142e3eb30d668d8f9c3
+feed: yes
+copyright: 
+markdown: kramdown
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]

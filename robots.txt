@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Sitemap:http://cg04ga.hitweb114.com/sitemap.xml
+
+User-agent:Yeti
+Disallow: 
